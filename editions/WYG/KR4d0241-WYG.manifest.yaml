@@ -1,0 +1,82 @@
+canonical_identifier: bkk:krp/KR4d0241/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0241/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 定庵類稿
+  date: '2015-08-25 00:00:30.449368'
+  source:
+    repository: kanripo
+    path: KR4d0241
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0241_000-WYG.yaml, hash: 'sha256:a5ebadb8b62c194613d53dd7a440002387dfadeb8d1d7946481732b8166f2fe5'}
+  - {seq: 1, filename: KR4d0241_001-WYG.yaml, hash: 'sha256:f712c0c507b05e31a8ae674ee13d94907e8e98d4244af07a602aacae2df425fd'}
+  - {seq: 2, filename: KR4d0241_002-WYG.yaml, hash: 'sha256:783196d4bea56f07c0ae57b46587b6986e533c423a4c30cb3124b29b5d5455b0'}
+  - {seq: 3, filename: KR4d0241_003-WYG.yaml, hash: 'sha256:2c2d20cfab30ed3d7ba41c0d765f6381d352e9786857c265ccb79c1260dc4378'}
+  - {seq: 4, filename: KR4d0241_004-WYG.yaml, hash: 'sha256:e6dfc107a1dac729cdc823fe2abc08d7e0bf5e99b7de84fce734c9e66276db0b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0241_000-WYG.markers.yaml, hash: 'sha256:a531d1393e215c8bf21d1cd2a7a8c85711a6cab16f9f0d6f92fad8378910fd72'}
+  - {seq: 1, role: markers, filename: assets/KR4d0241_001-WYG.markers.yaml, hash: 'sha256:aa320d2cd15dfcfd6e22c4b8618b8d673ad45c664ead9be970a242bc2b5eb496'}
+  - {seq: 2, role: markers, filename: assets/KR4d0241_002-WYG.markers.yaml, hash: 'sha256:aa4a6415856018148343fd3b82c6f49ba7a5e494a2a0efdc1ad646409dbe42fc'}
+  - {seq: 3, role: markers, filename: assets/KR4d0241_003-WYG.markers.yaml, hash: 'sha256:8f923b00cb79fe98a6eefe85f45a4b5c9c9c2184e6f3c494e5a9b4654a6d46f7'}
+  - {seq: 4, role: markers, filename: assets/KR4d0241_004-WYG.markers.yaml, hash: 'sha256:f64fba4973da7fde9f8020a750cb0afec5397996b037ecf052b5b51e963b2cdf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0241_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 492
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0241_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 10249
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4d0241_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 8613
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4d0241_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 15102
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4d0241_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 8232
+  label: 卷四
+  type: section
+  level: 1
+hash: sha256:c569cc0c6e98048f6795158a7c0ace848233b402e1bf4f93187d641b030e2464
